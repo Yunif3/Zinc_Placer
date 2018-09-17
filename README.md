@@ -1,4 +1,4 @@
-# Zinc_Placer
+# Zinc_placer_research
 Used to find the location of the zinc atom in a zinc-finger motif of a molecule.
 It can be used on both 3 Cysteine - 1 Histidine and 4 Cysteine zinc fingers.
 It takes in the 3D coordinates of the atoms that create the ligands which will bond to the zinc,
